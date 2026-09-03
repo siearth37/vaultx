@@ -39,3 +39,5 @@ VaultX ana ekranından "Hesap Ayarları" (⚙️) menüsüne girin.
 Çıkan QR kodu telefonunuzun kamerasıyla okutun ve açılan çevrimdışı HTML dosyasını cihazınıza kaydedin (iOS Kestirmeler veya Android Tarayıcı ile Ana Ekrana Ekle).
 
 Mobil arayüzde kendinize yerel bir PIN belirleyin ve kasanızı cebinizde taşıyın!
+
+Kodun kaynak kodlarına ulaşmak için discord acc : siearth
